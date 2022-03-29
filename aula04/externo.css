@@ -1,0 +1,18 @@
+h1{
+    color:blue;
+    text-align: center;
+}
+
+h2{
+    color:pink;
+    text-align: center;
+    background-color:black;
+}
+
+body{
+    background-color: rgb(4, 217, 255);
+}    
+
+p{
+    text-align: center;
+}
